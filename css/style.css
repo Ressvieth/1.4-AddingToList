@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+
+/*-----------------------------*/
+/*           STYLES            */
+/*-----------------------------*/
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 50px auto;
+}
+
+.heading {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #319E83;
+
+    font-size: 18px;
+    color: #313C4C;
+}
+
+ul {
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
+
+li {
+   list-style-type: none;
+}
+
+input {
+    height: 40px;
+    padding: 0 20px;
+    border: 1px #000 solid;
+
+    font: 14px Helvetica, Arial, sans-serif;
+}
+
+button {
+    height: 40px;
+    padding: 0 20px;
+    border: none;
+
+    cursor: pointer;
+
+    font: 14px Helvetica, Arial, sans-serif;
+}
+
+.invalid {
+    border: 1px #ff0000 solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
